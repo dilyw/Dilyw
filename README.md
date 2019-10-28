@@ -1,6 +1,6 @@
 # ![Header](DilywIcon.png)
 
-![dilyw](HeaderTrans.png)
+![dilyw](HeaderTransWave.png)
 
 ![dilyw](dilyw.png)
 

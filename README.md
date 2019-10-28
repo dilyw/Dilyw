@@ -4,4 +4,4 @@
 
 ## Download, Print, Distribute
 
-[![Alt Description](dilyw.png)](dilyw.png)
+[![Alt Description](NoVoiceMini.jpg)](dilyw.png)

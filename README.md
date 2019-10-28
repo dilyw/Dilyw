@@ -6,10 +6,8 @@
 
 <a href="dilyw.png">Download File</a> 
 
-<a href="dilyw.png">(dilyw.png)</a> 
-
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/dilyw/dilyw.png/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download dilyw/dilyw.png on GitHub">Download</a>
+<a class="github-button" href="https://github.com/dilyw/dilyw.png" data-icon="octicon-cloud-download" aria-label="Download dilyw/dilyw.png on GitHub">Download</a>

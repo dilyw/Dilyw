@@ -10,4 +10,4 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://raw.githubusercontent.com/dilyw/Dilyw/master/dilyw.png" data-icon="octicon-cloud-download" aria-label="https://raw.githubusercontent.com/dilyw/Dilyw/master/dilyw.png">Download</a>
+<a class="github-button" href="https://github.com/dilyw/Dilyw/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download dilyw/Dilyw on GitHub">Download</a>

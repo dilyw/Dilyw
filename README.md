@@ -5,7 +5,7 @@
 ![dilyw](dilyw.png)
 
 ## Lawrlwythwch, Argraffwch, Arddangoswch
-## Download, Print, Distribute
+## Download, Print, Display
 
 ## Click to expand the thumbnail, then save the higher resolution version of the image.
 
